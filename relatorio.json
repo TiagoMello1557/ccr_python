@@ -1,0 +1,206 @@
+[
+    {
+        "data_hora": "2024-09-30 11:49:15",
+        "linhas": {
+            "linha_1": {
+                "status": "Nao operante",
+                "trens_operando": 2
+            },
+            "linha_2": {
+                "status": "Nao operante",
+                "trens_operando": 1
+            },
+            "linha_3": {
+                "status": "Nao operante",
+                "trens_operando": 7
+            }
+        }
+    },
+    {
+        "data_hora": "2024-09-30 11:49:20",
+        "linhas": {
+            "linha_1": {
+                "status": "Atrasada",
+                "trens_operando": 3
+            },
+            "linha_2": {
+                "status": "Falha",
+                "trens_operando": 2
+            },
+            "linha_3": {
+                "status": "Falha",
+                "trens_operando": 7
+            }
+        }
+    },
+    {
+        "data_hora": "2024-09-30 11:49:25",
+        "linhas": {
+            "linha_1": {
+                "status": "Operando normalmente",
+                "trens_operando": 3
+            },
+            "linha_2": {
+                "status": "Nao operante",
+                "trens_operando": 1
+            },
+            "linha_3": {
+                "status": "Nao operante",
+                "trens_operando": 7
+            }
+        }
+    },
+    {
+        "data_hora": "2024-09-30 11:50:59",
+        "linhas": {
+            "linha_1": {
+                "status": "Nao operante",
+                "trens_operando": 10
+            },
+            "linha_2": {
+                "status": "Nao operante",
+                "trens_operando": 5
+            },
+            "linha_3": {
+                "status": "Nao operante",
+                "trens_operando": 10
+            }
+        }
+    },
+    {
+        "data_hora": "2024-09-30 11:53:14",
+        "linhas": {
+            "linha_1": {
+                "status": "Atrasada",
+                "trens_operando": "7"
+            },
+            "linha_2": {
+                "status": "Atrasada",
+                "trens_operando": "3"
+            },
+            "linha_3": {
+                "status": "Atrasada",
+                "trens_operando": "3"
+            }
+        }
+    },
+    {
+        "data_hora": "2024-09-30 11:53:19",
+        "linhas": {
+            "linha_1": {
+                "status": "Operando normalmente",
+                "trens_operando": "4"
+            },
+            "linha_2": {
+                "status": "Atrasada",
+                "trens_operando": "6"
+            },
+            "linha_3": {
+                "status": "Atrasada",
+                "trens_operando": "6"
+            }
+        }
+    },
+    {
+        "data_hora": "2024-09-30 11:53:24",
+        "linhas": {
+            "linha_1": {
+                "status": "Nao operante",
+                "trens_operando": "6"
+            },
+            "linha_2": {
+                "status": "Nao operante",
+                "trens_operando": "2"
+            },
+            "linha_3": {
+                "status": "Nao operante",
+                "trens_operando": "2"
+            }
+        }
+    },
+    {
+        "data_hora": "2024-09-30 11:53:29",
+        "linhas": {
+            "linha_1": {
+                "status": "Operando normalmente",
+                "trens_operando": "6"
+            },
+            "linha_2": {
+                "status": "Falha tecnica",
+                "trens_operando": "6"
+            },
+            "linha_3": {
+                "status": "Falha tecnica",
+                "trens_operando": "2"
+            }
+        }
+    },
+    {
+        "data_hora": "2024-09-30 11:53:34",
+        "linhas": {
+            "linha_1": {
+                "status": "Operando normalmente",
+                "trens_operando": "3"
+            },
+            "linha_2": {
+                "status": "Nao operante",
+                "trens_operando": "5"
+            },
+            "linha_3": {
+                "status": "Nao operante",
+                "trens_operando": "3"
+            }
+        }
+    },
+    {
+        "data_hora": "2024-09-30 11:53:39",
+        "linhas": {
+            "linha_1": {
+                "status": "Falha tecnica",
+                "trens_operando": "9"
+            },
+            "linha_2": {
+                "status": "Atrasada",
+                "trens_operando": "8"
+            },
+            "linha_3": {
+                "status": "Atrasada",
+                "trens_operando": "7"
+            }
+        }
+    },
+    {
+        "data_hora": "2024-09-30 11:53:44",
+        "linhas": {
+            "linha_1": {
+                "status": "Falha tecnica",
+                "trens_operando": "3"
+            },
+            "linha_2": {
+                "status": "Atrasada",
+                "trens_operando": "7"
+            },
+            "linha_3": {
+                "status": "Atrasada",
+                "trens_operando": "7"
+            }
+        }
+    },
+    {
+        "data_hora": "2024-09-30 11:53:49",
+        "linhas": {
+            "linha_1": {
+                "status": "Nao operante",
+                "trens_operando": "6"
+            },
+            "linha_2": {
+                "status": "Nao operante",
+                "trens_operando": "8"
+            },
+            "linha_3": {
+                "status": "Nao operante",
+                "trens_operando": "9"
+            }
+        }
+    }
+]
